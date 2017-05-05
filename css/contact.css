@@ -1,0 +1,40 @@
+/*Contact Form Section*/
+
+section {
+    
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+}
+
+.contact-form-wrapper {
+    
+    padding-left:100px;
+    margin-top:50px;
+    border-right: 2px solid ;
+}
+
+.contact-form-wrapper iframe {
+    
+    width:80%;
+    height:650px;
+
+    
+}
+
+
+.map-wrapper iframe {
+    
+    width:600px;
+    height:460px;
+    margin: 50px auto;
+    display: block;
+    
+}
+
+.map-wrapper {
+    
+    
+    
+}
+    
